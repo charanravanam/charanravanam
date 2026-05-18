@@ -1,7 +1,6 @@
 ## Hi, I'm Charan 
 
- 🧠 Mechanical Student at GNITC.<br/>
- 🌐 I Create Websites for Fun.<br/>
+ 🌐 I Create Websites.<br/>
  💰 I'm Good at Sales.<br/>
 
 ## 🌐 Socials:
